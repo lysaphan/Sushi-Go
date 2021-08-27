@@ -1,0 +1,54 @@
+C:\Users\lysag\Documents\COMP104 Sep\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csprojResolveAssemblyReference.cache
+C:\Users\lysag\Documents\COMP104 Sep\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Form1.resources
+C:\Users\lysag\Documents\COMP104 Sep\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Properties.Resources.resources
+C:\Users\lysag\Documents\COMP104 Sep\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csproj.GenerateResource.Cache
+C:\Users\lysag\Documents\COMP104 Sep\Assignment 2\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe.config
+C:\Users\lysag\Documents\COMP104 Sep\Assignment 2\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104 Sep\Assignment 2\Sushi Go\Sushi Go\bin\Debug\Sushi Go.pdb
+C:\Users\lysag\Documents\COMP104 Sep\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104 Sep\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi Go.pdb
+C:\Users\lysag\Documents\COMP104\Assignment 2\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe.config
+C:\Users\lysag\Documents\COMP104\Assignment 2\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104\Assignment 2\Sushi Go\Sushi Go\bin\Debug\Sushi Go.pdb
+C:\Users\lysag\Documents\COMP104\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csprojResolveAssemblyReference.cache
+C:\Users\lysag\Documents\COMP104\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Form1.resources
+C:\Users\lysag\Documents\COMP104\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Properties.Resources.resources
+C:\Users\lysag\Documents\COMP104\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csproj.GenerateResource.Cache
+C:\Users\lysag\Documents\COMP104\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104\Assignment 2\Sushi Go\Sushi Go\obj\Debug\Sushi Go.pdb
+C:\Users\lysag\Documents\COMP104\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csprojResolveAssemblyReference.cache
+C:\Users\lysag\Documents\COMP104\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Form1.resources
+C:\Users\lysag\Documents\COMP104\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Properties.Resources.resources
+C:\Users\lysag\Documents\COMP104\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csproj.GenerateResource.Cache
+C:\Users\lysag\Documents\COMP104\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi Go.pdb
+C:\Users\lysag\Documents\COMP104\Assignment 2 - New\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe.config
+C:\Users\lysag\Documents\COMP104\Assignment 2 - New\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104\Assignment 2 - New\Sushi Go\Sushi Go\bin\Debug\Sushi Go.pdb
+C:\Users\lysag\Documents\COMP104\2\Assignment 2 - New\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe.config
+C:\Users\lysag\Documents\COMP104\2\Assignment 2 - New\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104\2\Assignment 2 - New\Sushi Go\Sushi Go\bin\Debug\Sushi Go.pdb
+C:\Users\lysag\Documents\COMP104\2\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csprojResolveAssemblyReference.cache
+C:\Users\lysag\Documents\COMP104\2\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Form1.resources
+C:\Users\lysag\Documents\COMP104\2\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Properties.Resources.resources
+C:\Users\lysag\Documents\COMP104\2\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csproj.GenerateResource.Cache
+C:\Users\lysag\Documents\COMP104\2\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104\2\Assignment 2 - New\Sushi Go\Sushi Go\obj\Debug\Sushi Go.pdb
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Copy\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe.config
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Copy\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Copy\Sushi Go\Sushi Go\bin\Debug\Sushi Go.pdb
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Copy\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csprojResolveAssemblyReference.cache
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Copy\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Form1.resources
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Copy\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Properties.Resources.resources
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Copy\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csproj.GenerateResource.Cache
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Copy\Sushi Go\Sushi Go\obj\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Copy\Sushi Go\Sushi Go\obj\Debug\Sushi Go.pdb
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Resize Form\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe.config
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Resize Form\Sushi Go\Sushi Go\bin\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Resize Form\Sushi Go\Sushi Go\bin\Debug\Sushi Go.pdb
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Resize Form\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csprojResolveAssemblyReference.cache
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Resize Form\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Form1.resources
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Resize Form\Sushi Go\Sushi Go\obj\Debug\Sushi_Go.Properties.Resources.resources
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Resize Form\Sushi Go\Sushi Go\obj\Debug\Sushi Go.csproj.GenerateResource.Cache
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Resize Form\Sushi Go\Sushi Go\obj\Debug\Sushi Go.exe
+C:\Users\lysag\Documents\COMP104\Assignment 2 - Resize Form\Sushi Go\Sushi Go\obj\Debug\Sushi Go.pdb
